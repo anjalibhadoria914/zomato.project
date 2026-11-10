@@ -1,0 +1,1 @@
+A Zomato Clone Website built using HTML, CSS, and JavaScript. Features an attractive food ordering interface with restaurant listings, food categories, search functionality, and a user-friendly design.
